@@ -1,6 +1,8 @@
 # QParser
   A simple Quake Arena Log Parser
+  
   This project has built in Ruby 2.2.3
+  
 ----  
 #### How to use
   Execute in terminal to parse the log file.
