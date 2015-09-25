@@ -20,12 +20,12 @@
 ````
 game-12: {
 	game_id: 12,
-  	endgame_by:  Fraglimit hit,
+	endgame_by:  Fraglimit hit,
 	total_kills: 14,
 	world_casualities: 5,
 	connected_players_list: [ "Isgalamido", "Zeh", "Assasinu Credi"  ],
 	match_final_ranking: {
-    		[ id: 3, nickname: "Isgalamido", score: 2, kills: 2, deaths: 0 ],
+		[ id: 3, nickname: "Isgalamido", score: 2, kills: 2, deaths: 0 ],
 		[ id: 2, nickname: "Zeh", score: 1, kills: 2, deaths: 5 ],
 		[ id: 5, nickname: "Assasinu Credi", score: -3, kills: 3, deaths: 8 ]
 	}
